@@ -9,11 +9,13 @@
 
 .cards > ul > li {
   border: 1px solid #dadada;
-  background-color: var(--background-color);
+  background-color: var(--background-black-color);
 }
 
 .cards .cards-card-body {
   margin: 16px;
+  background-color: var(--background-black-color);
+  color: white;
 }
 
 .cards .cards-card-image {
